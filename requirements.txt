@@ -2,6 +2,6 @@ line-bot-sdk
 flask
 gunicorn
 palm
-base64
-json
-pprint
+
+
+
