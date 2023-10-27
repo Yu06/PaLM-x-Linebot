@@ -1,1 +1,0 @@
-# PaLM-x-Linebot

@@ -1,0 +1,7 @@
+line-bot-sdk
+flask
+gunicorn
+google.generativeai
+base64
+json
+pprint
